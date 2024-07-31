@@ -55,11 +55,11 @@ You're all set to begin creating repositories and publishing to Github--you'll o
 
 ## Step-by-step instructions
 
-1. First, we'll need to create the infrastructure that will move your projects from your local repository to the Github website. Log in to the Github website. On the homepage, click **Create New Repository**. Let's name our new repository "Notes" and keep it private for now.
+1. **Create a new repository**: First, we'll need to create the infrastructure that will move your projects from your local repository to the Github website. Log in to the Github website. On the homepage, click **Create New Repository**. Let's name our new repository "Notes" and keep it private for now.
 
-2. Open Github Desktop and find your "Notes" repository. Select this repository and **clone** it to your Repositories folder that you created in your User folder. By cloning it, you have just created a local copy of your repository for you to work on on your desktop. When you're finished, you'll be able to push your changes back to the remote repository (Github). You're ready to create your first file!
+2. **Clone your repository**: Open Github Desktop and find your "Notes" repository. Select this repository and **clone** it to your Repositories folder that you created in your User folder. By cloning it, you have just created a local copy of your repository for you to work on on your desktop. When you're finished, you'll be able to push your changes back to the remote repository (Github). You're ready to create your first file!
 
-3. Open VSCode and find your "Notes" repository. Click on the "New File" icon and name your new file "README.md" Congratulations, you're ready to write! Let's write a README file that will give you instructions in your own words to replicate what you've just done for your next project.  
+3. **Create your README.md file**: Open VSCode and find your "Notes" repository. Click on the "New File" icon and name your new file "README.md" Congratulations, you're ready to write! Let's write a README file that will give you instructions in your own words to replicate what you've just done for your next project.  
 
 >## Tips for writing in Markdown
 >Writing simply-formatted text is easy in Markdown, and you'll get the hang of it quickly. Check out this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) to learn basic formatting skills, such as creating headers and lists. If you'd like to create a table, use this [Markdown table generator](https://www.tablesgenerator.com/markdown_tables#). But don't take my word for it--there are plenty of resources online with very specific answers to very specific questions. There are also plugins (sometimes called "linters") that will review your Markdown for errors and help you fix them.
@@ -68,14 +68,14 @@ You're all set to begin creating repositories and publishing to Github--you'll o
 
 Now that you're ready to work on your own projects, let's write that how-to guide for your later reference.
 
-4. In your README.md file, create a header by typing "# How to Create, Push, and Publish Markdown Files" at the beginning of a new line.
-5. Create a subheader in a new line by typing "## A step-by-step guide". Practice creating numbered lists beneath this subheader by typing "1. 2. 3. "etc.
+4. **Create a header**: In your README.md file, create a header by typing "# How to Create, Push, and Publish Markdown Files" at the beginning of a new line.
+5. **Create a subheader**: In a new line, type "## A step-by-step guide". Practice creating numbered lists beneath this subheader by typing "1. 2. 3. "etc.
 
-6. Using subheaders and a numbered list, format the following text and fill in the blanks to create an easily-readable how-to guide for how to create and publish a Markdown file using Github, Github Desktop, and VSCode. Feel free to link in any useful resources you'd like to bookmark by using the format [link text](link url):
+6. **Your turn**: Using subheaders and a numbered list, format the following text and fill in the blanks to create an easily-readable how-to guide for how to create and publish a Markdown file using Github, Github Desktop, and VSCode. Feel free to link in any useful resources you'd like to bookmark by using the format [link text](link url):
 
 > First, create a new repository on the ______website. You'll need to give it a title and decide whether it will be public or private. Next, open Github desktop and find your repository. You'll need to ______ it in order to move it between your local repository and the remote _________ on Github. Open _________ and click on __________. You'll need to create a new file and name it with the title and ___ as the file type. Now you're ready to work in your new file.
 
-7. Great work! We're almost done--it's now time to commit, push, and publish your doc to the Github website. Go ahead and save your file in VSCode and document in your how-to guide that you have done so.
+7. **Save your file**: Great work! We're almost done--it's now time to commit, push, and publish your doc to the Github website. Go ahead and save your file in VSCode and document in your how-to guide that you have done so.
 
 > [!IMPORTANT]
 > VSCode will *not* save your file automatically--be sure to save frequently and leave yourself a note in your guide as a reminder. You can use the following formatting to help your reminder stand out.
@@ -85,6 +85,6 @@ If you'd like to see how this formatting looks once published, click [here](http
 
 ## Review and Commit (to Streamlined Documentation!)
 
-8. Open Github Desktop. You should see your README.md file open in your "Notes" repository. Find two text boxes above the "Commit to **main**" button. Type README.md in the title field and in the description field write "Created a guide for publishing .md files." Document these steps in your how-to guide and save in VSCode again. Then, hit "Commit to Main."
-9. The next step, which you can include in your guide before you save it again, is to press the "Publish branch" button at the top of the screen. This will publish what you've worked on from your local repository to the remote one.
-10. Great job, you've done it! Go ahead and press the "View on Github" button or go directly to the Github website to see your finished project. After any changes you make to your guide, remember to save in VSCode, give a summary of changes and description in Github Desktop, and commit and push your updates.
+8. **Commit**: Open Github Desktop. You should see your README.md file open in your "Notes" repository. Find two text boxes above the "Commit to **main**" button. Type README.md in the title field and in the description field write "Created a guide for publishing .md files." Document these steps in your how-to guide and save in VSCode again. Then, hit "Commit to Main."
+9. **Publish**: The next step, which you can include in your guide before you save it again, is to press the "Publish branch" button at the top of the screen. This will publish what you've worked on from your local repository to the remote one.
+10. **Celebrate**: Great job, you've done it! Go ahead and press the "View on Github" button or go directly to the Github website to see your finished project. After any changes you make to your guide, remember to save in VSCode, give a summary of changes and description in Github Desktop, and commit and push your updates.
