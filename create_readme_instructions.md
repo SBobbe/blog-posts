@@ -41,13 +41,13 @@ You'll be able to create a README.md file in no time, as long as you've got a st
 
 Before you can create your new README.md file, you'll need to do a little computer housekeeping first.
 
-1. Create an account on the Github website. This will host your remote repository.
+1. Create an account on the [Github](https://github.com/) website. This will host your remote repository.
 
-2. Download and install Github Desktop and Visual Studio Code (VSCode) from their websites.
+2. Download and install [Github Desktop](https://desktop.github.com/download/) and [Visual Studio Code (VSCode)](https://code.visualstudio.com/download) from their websites.
 
-3. Install Homebrew for MacOS
+3. Install [Homebrew](https://brew.sh/) 
 
-4. Install Git using Homebrew
+4. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) using Homebrew
 
 2. Finally, we'll create a home for your local repository. If you're in MacOS, use Finder to open your User folder (often labeled with your name) and create a new folder called "Repositories".
 
