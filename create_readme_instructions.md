@@ -36,7 +36,6 @@ You'll be able to create a README.md file in no time, as long as you've got a st
 * **Markdown**: a language usable in plain-text editors to format text on web platforms, as well as to write documentation.
 * **Commit, Publish, Push**: These verbs describe the process of moving your file from your local repository to Github online.
 
-If you are feeling confused about how all of these pieces fit together, and learn best from analogies, read on! (will update later) If you've got this and are ready to create your first README.md file, scroll down to **Before you begin** to get started.
 
 ## Before you begin
 
