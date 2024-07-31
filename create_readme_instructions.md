@@ -80,7 +80,7 @@ Now that you're ready to work on your own projects, let's write that how-to guid
 > [!IMPORTANT]
 > VSCode will *not* save your file automatically--be sure to save frequently and leave yourself a note in your guide as a reminder. You can use the following formatting to help your reminder stand out.
 
-! [Image shows different ways to format information you would like to emphasize](file:///var/folders/j4/gg7s8wtx3sj2jxnggvktwg_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_6RCbAK/Screenshot%202024-07-29%20at%204.50.35%E2%80%AFPM.png)
+![Image shows different ways to format information you would like to emphasize](file:///var/folders/j4/gg7s8wtx3sj2jxnggvktwg_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_6RCbAK/Screenshot%202024-07-29%20at%204.50.35%E2%80%AFPM.png)
 If you'd like to see how this formatting looks once published, click [here](https://github.com/orgs/community/discussions/16925).
 
 ## Review and Commit (to Streamlined Documentation!)
