@@ -5,6 +5,7 @@
 ### Table of Contents
 
 * Who, what, when, where, and why Docs-as-Code?
+* Prerequisites
 * Vocabulary and getting your bearings
 * Before you begin
 * Step-by-step instructions
@@ -19,6 +20,9 @@
 | You! In addition, anyone from developers to technical writers to the end user uses documentation to stay current on the project | Docs-as-Code means using the same tools and workflow that developers use to write and publish code.  | Projects that grow and change quickly require nimble documentation to ensure stakeholders can access accurate information!  | Your Docs-as-Code setup will require a text-editor, a version-control system, a Static Site Generator, a CI/CD pipeline, and a web hosting platform.  | Adopting Docs-as-Code will allow you and your team to collaborate more easily with more stakeholders and streamline the documentation process. |
 ___
 
+## Prerequisites
+
+You'll be able to create a README.md file in no time, as long as you've got a stable internet connection and the ability to download Github Desktop and VSCode, which you'll read about next.  You won't need to know how to code, but you will learn how to begin writing in Markdown. You'll also need to [install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), which we'll talk about later. 
 ## Vocabulary and getting your bearings
 
 * **Version Control System**: A website or app that allows you to track changes to a project. We'll be using **Git** for our project.
