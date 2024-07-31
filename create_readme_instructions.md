@@ -4,14 +4,14 @@
 
 ### Table of Contents
 
-* Who, what, when, where, and why Docs-as-Code?
-* Prerequisites
-* Vocabulary and getting your bearings
-* Before you begin
-* Step-by-step instructions
-* Tips for writing in Markdown
-* Create your own notes guide
-* Review and Commit (to streamlined documentation!)
+* [Who, what, when, where, and why Docs-as-Code?](#who-what-when-where-and-why-docs-as-code)
+* [Prerequisites](#prerequisites)
+* [Vocabulary and getting your bearings](#vocabulary-and-getting-your-bearings)
+* [Before you begin](#before-you-begin)
+* [Step-by-step instructions](#step-by-step-instructions)
+* [Tips for writing in Markdown](#tips-for-writing-in-markdown)
+* [Create your own notes guide](#create-your-own-notes-guide)
+* [Review and Commit (to streamlined documentation!)](#review-and-commit-to-streamlined-documentation)
 
 ## Who, what, when, where, and why Docs-as-Code?
 
@@ -83,6 +83,8 @@ Now that you're ready to work on your own projects, let's write that how-to guid
 
 ! [Image shows different ways to format information you would like to emphasize](file:///var/folders/j4/gg7s8wtx3sj2jxnggvktwg_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_6RCbAK/Screenshot%202024-07-29%20at%204.50.35%E2%80%AFPM.png)
 If you'd like to see how this formatting looks once published, click [here](https://github.com/orgs/community/discussions/16925).
+
+## Review and Commit (to Streamlined Documentation!)
 
 8. Open Github Desktop. You should see your README.md file open in your "Notes" repository. Find two text boxes above the "Commit to **main**" button. Type README.md in the title field and in the description field write "Created a guide for publishing .md files." Document these steps in your how-to guide and save in VSCode again. Then, hit "Commit to Main."
 9. The next step, which you can include in your guide before you save it again, is to press the "Publish branch" button at the top of the screen. This will publish what you've worked on from your local repository to the remote one.
