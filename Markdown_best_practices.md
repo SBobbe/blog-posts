@@ -29,4 +29,14 @@ The following situations support choosing a style guide appropriate for your sit
 
 ## When to make a new style guide
 
+Sometimes, you or your company might choose to create a new Markdown style guide tailored to specific needs. Creating your own style guide allows you to standardize internal practices, ensure consistency across documentation, and allow collaboration with multiple authors without requiring you to adopt the rules of a style guide that otherwise does not meet your needs or is extraneous.
+
+The following situations support creating a new style guide appropriate for your situation:
+
+* Your documentation will stay internal
+
+* You have a small team of writers that already documents their processes, effectively following their own style guide
+
+* Your project may include specialized documentation, such as complicated equations or proprietary notation
+
 ## When to ignore the style guide
