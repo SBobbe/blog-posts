@@ -54,7 +54,7 @@ The following situations support throwing away the style guide and sculpting Mar
 
 Of course, choosing or creating your own style guide doesn't mean you must follow it in every instance, and opting not to follow a style guide doesn't mean you've thrown it out the window for good. In many cases, a preexisting style guide or linter plugin will be easy to reference and help you create cohesive Markdown text.
 
-If you're working in VSCode and looking for simple as-you-go help, I recommend the [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) alongside the use of this [markdownlint rules document](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md#md004---unordered-list-style) which explains the errors markdownlint flags. 
+If you're working in VSCode and looking for simple as-you-go help, I recommend the [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) alongside the use of this [markdownlint rules document](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md#md004---unordered-list-style) which explains the errors flagged by markdownlint.
 
 For example, creating a code block in Markdown requires the use of three backticks (```) before and after the code. Markdownlint indicates an error if you do not provide a language after the primary backticks:
 
@@ -64,4 +64,5 @@ However, the codeblock publishes normally despite the error:
 
 ![Screenshot shows that error is only visible in raw Markdown](published_backtick_error.png)
 
-This is a good example of a situation when you face a choice to follow or ignore the style guide. If you are publishing on a personal blog and are the only person to see your raw markdown, and you don't mind the zigzag error line, then nobody else will be able to tell that you haven't followed best practices. However, if you are not the only collaborator on the Markdown file, or if your work is used as an example for new learners, it might be a good idea to take the extra time to fix the error.
+In this situation, you face a choice to follow or ignore the style guide. If you are publishing on a personal blog and are the only person to see your raw markdown, and you don't mind the zigzag error line, then nobody else will be able to tell that you haven't followed best practices. However, if you are not the only collaborator on the Markdown file, or if your work is used as an example for new learners, it's a good idea to take the extra time to fix the error and learn how to avoid it next time.
+
