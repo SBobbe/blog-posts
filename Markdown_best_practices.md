@@ -17,6 +17,16 @@ There is no single set of best practices for using Markdown. Though many communi
 
 ## When to choose a style guide
 
+Nevertheless, using a standardized Markdown makes it significantly easier to maintain uniformity within a company or project. To this point, Google has an [open source style guide](https://google.github.io/styleguide/docguide/style.html), and several websites have adopted a more standardized specification of Markdown called [CommonMark](https://commonmark.org/), including [Github](https://github.com/) and [Reddit](https://www.reddit.com/). There are also a variety of [linters](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md#rules) which, much like spellcheck, will identify and fix Markdown errors for you so that you don't have to memorize hundreds of syntax rules.
+
+The following situations support choosing a style guide appropriate for your situation:
+
+ * Your product is documentation
+
+ * Your company employs a large team with many contributors to documents
+
+ * You are contributing to an open-source project
+
 ## When to make a new style guide
 
 ## When to ignore the style guide
