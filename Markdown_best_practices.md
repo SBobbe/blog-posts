@@ -40,3 +40,12 @@ The following situations support creating a new style guide appropriate for your
 * Your project may include specialized documentation, such as complicated equations or proprietary notation
 
 ## When to ignore the style guide
+
+Of course, you don't always need to follow a style guide, especially if your project is personal, your team is small, or you're writing for non-technical audiences. Markdown was created to help make formatting plaintext easier, and was not created alongside a singular style guide. Much like any language, it serves many purposes and can be used informally or even artistically.
+
+The following situations support throwing away the style guide and sculpting Markdown to your will:
+
+* You're not worried about how the "raw" Markdown looks 
+* You're using Markdown for personal tasks such as note-taking or list-making
+* You have an urgent update to make that cannot wait for strict adherence to formatting rules
+
