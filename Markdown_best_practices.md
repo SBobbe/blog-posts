@@ -14,7 +14,7 @@ Markdown is a popular markup language commonly used for collaborative documentat
 
 There is no single set of best practices for using Markdown. Though many communities have tried to standardize best practices through the creation of style guides, Markdown creater John Gruber has not created or endorsed a specific guide. His vision for Markdown is that it is flexible for many types of users.
 
-![John Gruber tweets: "Because different sites (and people) have different needs. No one syntax would make all happy."](john_gruber_X_screenshot.png)
+![John Gruber tweets: "Because different sites (and people) have different needs. No one syntax would make all happy."](/images/john_gruber_X_screenshot.png)
 
 ## When to choose a style guide
 
@@ -58,11 +58,11 @@ If you're working in VSCode and looking for simple as-you-go help, I recommend t
 
 For example, creating a code block in Markdown requires the use of three backticks (```) before and after the code. Markdownlint indicates an error if you do not provide a language after the primary backticks:
 
-![Screenshot shows error in Markdown](backtick_linter_error.png)
+![Screenshot shows error in Markdown](/images/backtick_linter_error.png)
 
 However, the codeblock publishes normally despite the error:
 
-![Screenshot shows that error is only visible in raw Markdown](published_backtick_error.png)
+![Screenshot shows that error is only visible in raw Markdown](/images/published_backtick_error.png)
 
 In this situation, you face a choice to follow or ignore the style guide. If you are publishing on a personal blog and are the only person to see your raw markdown, and you don't mind the zigzag error line, then nobody else will be able to tell that you haven't followed best practices. However, if you are not the only collaborator on the Markdown file, or if your work is used as an example for new learners, it's a good idea to take the extra time to fix the error and learn how to avoid it next time.
 
