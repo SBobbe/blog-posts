@@ -33,4 +33,15 @@ It's also worth familiarizing yourself with the project's **community support qu
 
 ## Common mistakes
 
+Like any newcomer, you may encounter pitfalls, such as rejected pull requests, in the beginning of your open-source documentation journey. If your PRs keep getting rejected, ask yourself:
+
+* _"Did I make a big content change?"_ Remember that documentation specialists receiving pull requests have lots of work to do, and it takes time to review and edit large chunks of text.
+  * __Fix it by__: making more, smaller pull requests so that new changes can be accepted or rejected on a case-by-case basis.
+* _"Am I addressing a pain point?"_ If your contribution does not address something that is widely accepted as a problem, it may be rejected because your new content is not necessarily better than what already exists. Rainsberger calls this "low quality helping." If you have lots of thoughts on a topic, feel free to write a blog post about it instead!
+  * __Fix it by__: looking through your project's documentation for files that list known problems that need fixing instead of trying to identify problems by yourself.
+* _"Is my contribution too niche?"_ If your contribution addresses a problem that very few users will encounter or seeks to highlight a feature that does not have many use cases, your pull request may be rejected to avoid confusing users.
+  * __Fix it by__: referring to your project's documentation for a list of problems to work on that will impact a greater number of users if solved. Remember, you can always file an issue to ask about the topic before putting in the work to create new documentation.
+* _"Are my instructions linear?"_ If you have accidentally included a step in your instructions that must have been taken earlier in order to be successful, your documentation is creating friction for the UX.
+  * **Fix it by**: reviewing your writing to ensure that your instructions are chronologically accurate and comprehensive. 
+
 ## Maximizing the odds your PR will be accepted
