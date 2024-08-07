@@ -42,6 +42,12 @@ Like any newcomer, you may encounter pitfalls, such as rejected pull requests, i
 * _"Is my contribution too niche?"_ If your contribution addresses a problem that very few users will encounter or seeks to highlight a feature that does not have many use cases, your pull request may be rejected to avoid confusing users.
   * __Fix it by__: referring to your project's documentation for a list of problems to work on that will impact a greater number of users if solved. Remember, you can always file an issue to ask about the topic before putting in the work to create new documentation.
 * _"Are my instructions linear?"_ If you have accidentally included a step in your instructions that must have been taken earlier in order to be successful, your documentation is creating friction for the UX.
-  * **Fix it by**: reviewing your writing to ensure that your instructions are chronologically accurate and comprehensive. 
+  * **Fix it by**: reviewing your writing to ensure that your instructions are chronologically accurate and comprehensive.
 
 ## Maximizing the odds your PR will be accepted
+
+Rainsberger reminds new open-source contributers always to keep the perspective of being helpful. Remember that documentation managers are people too, and appreciate respectful and helpful PR descriptions alongside any contributions you'd like to make. If you're not sure what style or writing guide your project uses, it's a good idea to read more of that project's other documentation and follow conventions you notice there.
+
+Above all, be empathetic to the reader! Make sure your writing is direct and confident; keep it short and helpful.
+
+If you're new to writing in Markdown, read my thoughts on [Markdown Best Practices](./Markdown_best_practices.md) and practice writing alongside my [Creating a README.md guide](./create_readme_instructions.md). Best of luck! 
